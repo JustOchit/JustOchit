@@ -25,3 +25,9 @@ I’m passionate about stunning sunset views 🌅 and love capturing them in pho
 
 ---
 “Coding is not just a job, it's a passion to make the world better one line of code at a time.”
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/michael.ygm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michael.ygm" height="30" width="40" /></a>
+</p>
