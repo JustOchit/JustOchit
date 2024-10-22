@@ -2,7 +2,7 @@
 
 # 💫 Hi, I’m **Michael Yogy Manginsela** a.k.a **Ochitsuki** 💫
 
-![Banner](banner_github.webp)
+![Banner](banner_github.jpg)
 
 ---
 
