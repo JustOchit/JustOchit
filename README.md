@@ -30,6 +30,9 @@ Feel free to connect with me – I’m always up for new projects and challenges
 ---
 
 # 💻 My Tech Skills:
+
+![Banner](sunset_banner.jpg)
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
