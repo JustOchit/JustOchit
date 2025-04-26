@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Hi, I’m **Michael Yogy Manginsela** a.k.a **Ochitsuki** 💫
+# 💫 Hi, My name is **Michael** 💫
 
 ![Banner](banner_github.jpg)
 
